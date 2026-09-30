@@ -36,6 +36,13 @@ An ambiguous PPTX optimization request stays in the router until its one
 discriminator question resolves whether the deck is 1:1 beautify or
 re-architectable source. Do not load either full owner before that answer.
 
+## Non-Presentation Skills
+
+- Clinic recording → chart summary (진료 녹음 → 초진/재진 차트 요약):
+  [`chart-summary/SKILL.md`](.claude/skills/chart-summary/SKILL.md). Independent of
+  the presentation router; do not read `routing.md` for it. Patient data lives only
+  in the git-ignored `clinic/` workspace.
+
 ## Execution Ownership
 
 - The selected skill or workflow owns its confirmations, preflight, validation,

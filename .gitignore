@@ -28,3 +28,7 @@ docs/superpowers/
 # OS
 .DS_Store
 Thumbs.db
+
+# Chart-summary patient data — recordings, transcripts, and charts never leave this machine
+clinic/*
+!clinic/README.md
