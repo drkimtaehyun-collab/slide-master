@@ -72,6 +72,10 @@ DUAL_SCRIPT_FONTS = {
     'Pretendard', 'Pretendard Thin', 'Pretendard ExtraLight', 'Pretendard Light',
     'Pretendard Medium', 'Pretendard SemiBold', 'Pretendard ExtraBold',
     'Pretendard Black', 'Pretendard JP', 'Pretendard GOV',
+    # Paperlogy: Korean + Latin; each weight cut is its own legacy family name.
+    'Paperlogy', 'Paperlogy 1 Thin', 'Paperlogy 2 ExtraLight', 'Paperlogy 3 Light',
+    'Paperlogy 4 Regular', 'Paperlogy 5 Medium', 'Paperlogy 6 SemiBold',
+    'Paperlogy 7 Bold', 'Paperlogy 8 ExtraBold', 'Paperlogy 9 Black',
 }
 
 # macOS/Linux-only fonts -> Windows equivalents

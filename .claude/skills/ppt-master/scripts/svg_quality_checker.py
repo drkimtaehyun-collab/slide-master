@@ -557,6 +557,10 @@ PPT_SAFE_FONTS = {
     'pretendard', 'pretendard light', 'pretendard medium',
     'pretendard semibold', 'pretendard extrabold', 'pretendard black',
     'pretendard thin', 'pretendard extralight',
+    # Paperlogy (user-requested per deck; requires install on viewing machines).
+    'paperlogy', 'paperlogy 1 thin', 'paperlogy 2 extralight', 'paperlogy 3 light',
+    'paperlogy 4 regular', 'paperlogy 5 medium', 'paperlogy 6 semibold',
+    'paperlogy 7 bold', 'paperlogy 8 extrabold', 'paperlogy 9 black',
     # Korean system defaults (Windows/macOS)
     'malgun gothic', 'apple sd gothic neo',
 }
